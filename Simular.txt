@@ -1,0 +1,4 @@
+"AadClientId": "d10e646b-5b62-46a0-8d39-291dcf5b03da",
+  "AadSecret": "HnL8Q~OFWSDYbEDpKtEy8b5_REmU8wFYkeAg3cSt",
+  "AadTenantDomain": "msticlud.onmicrosoft.com",
+  "AadTenantId": "19d8633d-e00a-4a25-af28-f8b74752248d",
