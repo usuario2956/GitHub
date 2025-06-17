@@ -1,0 +1,9 @@
+UserPrincipalName,DisplayName,RiskLevel,DetectionType,Status
+joao.silva@msticlud.onmicrosoft.com,João Silva,High,LeakedCredentials,Active
+maria.ferreira@msticlud.onmicrosoft.com,Maria Ferreira,High,LeakedCredentials,Active
+carlos.lima@msticlud.onmicrosoft.com,Carlos Lima,Medium,LeakedCredentials,Active
+github@msticlud.onmicrosoft.com
+ana.costa@msticlud.onmicrosoft.com,Ana Costa,High,LeakedCredentials,Active
+rodrigo.souza@msticlud.onmicrosoft.com,Rodrigo Souza,Medium,LeakedCredentials,Active
+fernanda.mendes@msticlud.onmicrosoft.com,Fernanda Mendes,High,LeakedCredentials,Active
+github@msticlud.onmicrosoft.com
