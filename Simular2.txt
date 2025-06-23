@@ -1,9 +1,9 @@
-UserPrincipalName,DisplayName,RiskLevel,DetectionType,Status
-joao.silva@msticlud.onmicrosoft.com,João Silva,High,LeakedCredentials,Active
-maria.ferreira@msticlud.onmicrosoft.com,Maria Ferreira,High,LeakedCredentials,Active
-carlos.lima@msticlud.onmicrosoft.com,Carlos Lima,Medium,LeakedCredentials,Active
-github@msticlud.onmicrosoft.com
-ana.costa@msticlud.onmicrosoft.com,Ana Costa,High,LeakedCredentials,Active
-rodrigo.souza@msticlud.onmicrosoft.com,Rodrigo Souza,Medium,LeakedCredentials,Active
-fernanda.mendes@msticlud.onmicrosoft.com,Fernanda Mendes,High,LeakedCredentials,Active
-github@msticlud.onmicrosoft.com
+| UserPrincipalName                                                                           | DisplayName     | RiskLevel | DetectionType     | Status | Senha Simulada |
+| ------------------------------------------------------------------------------------------- | --------------- | --------- | ----------------- | ------ | -------------- |
+| [joao.silva@msticlud.onmicrosoft.com](mailto:joao.silva@msticlud.onmicrosoft.com)           | João Silva      | High      | LeakedCredentials | Active | `Senha@123`    |
+| [maria.ferreira@msticlud.onmicrosoft.com](mailto:maria.ferreira@msticlud.onmicrosoft.com)   | Maria Ferreira  | High      | LeakedCredentials | Active | `Maria@123`    |
+| [carlos.lima@msticlud.onmicrosoft.com](mailto:carlos.lima@msticlud.onmicrosoft.com)         | Carlos Lima     | Medium    | LeakedCredentials | Active | `Carlos@123`   |
+| [github@msticlud.onmicrosoft.com](mailto:github@msticlud.onmicrosoft.com)                   | Github          | —         | —                 | —      | `Github@123`   |
+| [ana.costa@msticlud.onmicrosoft.com](mailto:ana.costa@msticlud.onmicrosoft.com)             | Ana Costa       | High      | LeakedCredentials | Active | `Ana@123`      |
+| [rodrigo.souza@msticlud.onmicrosoft.com](mailto:rodrigo.souza@msticlud.onmicrosoft.com)     | Rodrigo Souza   | Medium    | LeakedCredentials | Active | `Rodrigo@123`  |
+| [fernanda.mendes@msticlud.onmicrosoft.com](mailto:fernanda.mendes@msticlud.onmicrosoft.com) | Fernanda Mendes | High      | LeakedCredentials | Active | `Fernanda@123` |
